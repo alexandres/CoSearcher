@@ -8,6 +8,9 @@ https://www.springerprofessional.de/en/studying-the-effectiveness-of-conversatio
 
 Authors: Alexandre Salle, Shervin Malmasi, Oleg Rokhlenko, Eugene Agichtein
 
+The code needs to pass through internal process before it can be released. Please watch this repository or send an email to malmasi@amazon.com if you have any questions about the code release.
 
-The code needs to pass through internal process before it can be released. Please watch this repository or send me an email at alex@alexsalle.com if you have any questions or would like to be notified when it is released.
+If you have any questions about the paper or require additional information for reproducing our work before the code is released, please contact me at alex@alexsalle.com.
+
+
 
