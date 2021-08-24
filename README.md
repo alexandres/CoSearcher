@@ -4,7 +4,7 @@ This is placeholder for the code used in the ECIR2021 paper:
 
 Studying the Effectiveness of Conversational Search Refinement Through User Simulation
 
-https://www.springerprofessional.de/en/studying-the-effectiveness-of-conversational-search-refinement-t/19011514
+https://link.springer.com/chapter/10.1007%2F978-3-030-72113-8_39
 
 Authors: Alexandre Salle, Shervin Malmasi, Oleg Rokhlenko, Eugene Agichtein
 
